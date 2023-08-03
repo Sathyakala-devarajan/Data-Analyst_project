@@ -17,9 +17,9 @@ PROCESS:
         3. Cleaning the data to remove unwanted, redundant and missing values that may impede analysis
         4. Exploring and analyzing the data using business intelligence tools data visualization, data mining techniques and predictive modeling
         5. Interpreting the results to gain insights.
-
-
-
+        
+        
+        
 SQL:
         MySQL Database is used to get the meaningfull datas from raw data with scattered tables.
         For the first step, I need to analyse the database. Based on analysis, the management want to know the condition of the sales activities within
