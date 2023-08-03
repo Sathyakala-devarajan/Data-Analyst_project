@@ -8,6 +8,8 @@ OBJECTIVES:
 In excel use pivot tables to generate a dynamic dashboard.
         I am going to connect the Excel data sheet that contains the SQL generated data set to Tableau and then generate the visually pleasing and dynamic dashboard.
 
+
+
 PROCESS:
         Data analysis follows a demanding step-by-step process that involves as follows
         1. understanding the problem defining the business or project goals and laying out a plan to find a solution.
@@ -15,6 +17,9 @@ PROCESS:
         3. Cleaning the data to remove unwanted, redundant and missing values that may impede analysis
         4. Exploring and analyzing the data using business intelligence tools data visualization, data mining techniques and predictive modeling
         5. Interpreting the results to gain insights.
+
+
+
 SQL:
         MySQL Database is used to get the meaningfull datas from raw data with scattered tables.
         For the first step, I need to analyse the database. Based on analysis, the management want to know the condition of the sales activities within
